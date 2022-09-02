@@ -1,4 +1,7 @@
-### Hi there 👋
+◻️ Hi, I'm Milan Popović
+◻️ Interested in the world of the Web Development
+◻️ Currently making a couple more projects until I get perfect at HTML & CSS
+◻️ My next big journey would be JavaScript
 
 <!--
 **PopovicDev/PopovicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
