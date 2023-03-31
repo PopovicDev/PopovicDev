@@ -1,6 +1,6 @@
 ◻️ Hi, I'm Milan Popović<br>
 ◻️ Interested in the world of the Web Development<br>
-◻️ Currently working on my first bigger project about the Avatar The Last Air Bender using HTML, CSS, JavaScript<br>
+◻️ Currently working on my first bigger project about the Avatar The Last Airbender using HTML, CSS, JavaScript<br>
 ◻️ Still a beginner with JavaScript<br>
 
 <!--
