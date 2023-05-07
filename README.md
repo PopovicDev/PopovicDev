@@ -1,7 +1,7 @@
 ◻️ Hi, I'm Milan Popović<br>
 ◻️ Interested in the world of the Web Development<br>
-◻️ Currently working on my first bigger project about the Avatar The Last Airbender using HTML, CSS, JavaScript<br>
-◻️ Still a beginner with JavaScript<br>
+◻️ Chasing JavaScript knowledge<br>
+◻️ Just finished a project based on Avatar: The Last Airbender series.<br>
 
 <!--
 **PopovicDev/PopovicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
