@@ -1,7 +1,7 @@
 ◻️ Hi, I'm Milan Popović<br>
 ◻️ Interested in the world of the Web Development<br>
-◻️ Chasing JavaScript knowledge<br>
-◻️ Working on an E-Commerce Website named <b>Bimbo</b>.
+◻️ Chasing <b>React</b> knowledge<br>
+◻️ Currenlty working on small basic projects to learn about <b>React</b>
 <!--
 **PopovicDev/PopovicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
