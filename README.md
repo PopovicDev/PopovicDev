@@ -1,4 +1,4 @@
-◻️ Hi, I'm Milan Popović<br>
+◻️ Hi, I'm Milan Popović, student of <i>"ATUSS Belgrade, School of Electrical and Computer Engineering"</i><br>
 ◻️ Interested in the world of the Web Development<br>
 ◻️ Chasing <b>React</b> knowledge<br>
 ◻️ Currenlty working on small basic projects to learn about <b>React</b>
