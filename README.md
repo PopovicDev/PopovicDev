@@ -1,7 +1,7 @@
 ◻️ Hi, I'm Milan Popović, student of <i>"ATUSS Belgrade, School of Electrical and Computer Engineering"</i> 👨🏻‍🎓<br>
 ◻️ Interested in the world of the Web Development 🖥️<br>
 ◻️ Chasing <b>React</b> knowledge 👨🏻‍💻<br>
-◻️ Currently working on a bigger project using <b>MERN STACK</b> 🤙🏻
+◻️ Currently working on a bigger project using <b>PERN STACK</b> 🤙🏻
 <!--
 **PopovicDev/PopovicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
